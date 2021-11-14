@@ -1,2 +1,2 @@
 # hledam-pravdu
-První repo v novém ucetu
+První repo v novém učetu
